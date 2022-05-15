@@ -1,0 +1,9 @@
+127.0.0.1 - - [15/May/2022:19:45:14 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/May/2022:19:45:16 +0530] "GET /EG_System/Users.jsp HTTP/1.1" 200 4014
+0:0:0:0:0:0:0:1 - - [15/May/2022:19:45:16 +0530] "GET /EG_System/Views/bootstrap.min.css HTTP/1.1" 200 144877
+0:0:0:0:0:0:0:1 - - [15/May/2022:19:45:16 +0530] "GET /EG_System/Components/jquery-3.2.1.js HTTP/1.1" 200 268043
+0:0:0:0:0:0:0:1 - - [15/May/2022:19:45:16 +0530] "GET /EG_System/Components/users.js HTTP/1.1" 200 3815
+0:0:0:0:0:0:0:1 - - [15/May/2022:19:45:44 +0530] "DELETE /EG_System/UsersAPI HTTP/1.1" 200 2238
+0:0:0:0:0:0:0:1 - - [15/May/2022:19:45:59 +0530] "PUT /EG_System/UsersAPI HTTP/1.1" 200 2238
+0:0:0:0:0:0:0:1 - - [15/May/2022:19:46:19 +0530] "PUT /EG_System/UsersAPI HTTP/1.1" 200 2239
+0:0:0:0:0:0:0:1 - - [15/May/2022:19:46:27 +0530] "DELETE /EG_System/UsersAPI HTTP/1.1" 200 1893
